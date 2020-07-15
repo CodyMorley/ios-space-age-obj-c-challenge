@@ -344,7 +344,7 @@
 				CODE_SIGN_ENTITLEMENTS = SpaceAgeObjC/SpaceAgeObjC.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = VXUQXR6S56;
+				DEVELOPMENT_TEAM = H627294WQZ;
 				INFOPLIST_FILE = SpaceAgeObjC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -362,7 +362,7 @@
 				CODE_SIGN_ENTITLEMENTS = SpaceAgeObjC/SpaceAgeObjC.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = VXUQXR6S56;
+				DEVELOPMENT_TEAM = H627294WQZ;
 				INFOPLIST_FILE = SpaceAgeObjC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
